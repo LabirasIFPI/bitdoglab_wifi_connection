@@ -33,7 +33,7 @@ Um módulo simples e reutilizável para conectar um **Raspberry Pi Pico W** a um
 
 ```bash
 git clone https://github.com/LabirasIFPI/bitdoglab_wifi_connection.git
-cd SEU_REPOSITORIO
+cd bitdoglab_wifi_connection
 ```
 
 ### 2\. ✍️ Configure suas Credenciais
